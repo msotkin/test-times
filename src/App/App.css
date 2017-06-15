@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.App-header {
+  display: flex;
+  background-color: #40bca4;
+  height: 40px;
+  padding: 10px 10px 10px 20px;
+  color: white;
+  align-items: center;
+}
+
+.titleColor {
+  color: #324259;
+}
+
+.App-intro {
+  font-size: large;
+}
